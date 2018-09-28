@@ -4,3 +4,6 @@
 		
 
 ![](https://github.com/lyp1992/LYPTableViewAnimation/blob/master/Untitled3.gif)
+	
+	
+本文参考自网上王小树的代码。
